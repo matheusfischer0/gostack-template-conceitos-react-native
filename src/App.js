@@ -61,7 +61,7 @@ export default function App() {
                   // Remember to replace "1" below with repository ID: {`repository-likes-${repository.id}`}
                   testID={`repository-likes-${repo.id}`}
                 >
-                  {repo.likes} Curtidas
+                  {repo.likes} curtidas
                 </Text>
               </View>
 
